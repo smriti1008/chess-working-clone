@@ -12,6 +12,7 @@ const io = socket(server);   //socket ke through  hi real time connection hoga d
 
 const chess = new Chess();
 let players = {};
+
 let currentPlayer = "w";
 
 
