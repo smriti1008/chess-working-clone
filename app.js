@@ -7,7 +7,8 @@ const { log } = require("console");
 
 const app = express();
 const server = http.createServer(app);
-const io = socket(server);   //socket ke through  hi real time connection hoga do logo me(sending msgs and all)
+const io = socket(server);   //socket ke through  hi real time connection hoga do logo me(sending msgs and all).
+
 
 const chess = new Chess();
 let players = {};
