@@ -169,11 +169,9 @@ Through this project, I practiced:
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Chessboard Interface
 
-Chessboard Interface
+
 
 ## 👩‍💻 Author
 
