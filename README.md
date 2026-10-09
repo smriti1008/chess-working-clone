@@ -171,6 +171,9 @@ Through this project, I practiced:
 
 ### Chessboard Interface
 
+![Chess Clone - Chessboard Interface](https://github.com/user-attachments/assets/3f0b8823-9ee1-4953-865d-afa6eaf7b3e5)
+
+
 
 
 ## 👩‍💻 Author
