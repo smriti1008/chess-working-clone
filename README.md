@@ -169,13 +169,11 @@ Through this project, I practiced:
 
 ## 📸 Screenshots
 
-Add screenshots of the chessboard here:
+## 📸 Screenshots
 
-```text
-![Chess Clone](./screenshots/chessboard.png)
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/3f0b8823-9ee1-4953-865d-afa6eaf7b3e5" />
+### Chessboard Interface
 
-```
+Chessboard Interface
 
 ## 👩‍💻 Author
 
