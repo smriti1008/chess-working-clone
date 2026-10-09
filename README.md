@@ -169,10 +169,13 @@ Through this project, I practiced:
 
 ## 📸 Screenshots
 
-### Chessboard Interface
+### ♟️ Chessboard Interface
 
-![Chess Clone - Chessboard Interface](https://github.com/user-attachments/assets/3f0b8823-9ee1-4953-865d-afa6eaf7b3e5)
+![Chessboard Interface](https://github.com/smriti1008/chess-working-clone/raw/main/images/chessinterface.jpeg)
 
+### 👥 Chess Players
+
+![Chess Players](https://github.com/smriti1008/chess-working-clone/raw/main/images/chessplayers.jpeg)
 
 
 
